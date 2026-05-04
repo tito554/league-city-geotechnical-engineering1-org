@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — League City
+
+> Geotechnical engineering services in League City, United States.
+
+## Services
+- [Anchors](https://league-city.geotechnical-engineering1.org/anchors/)
+- [Atterberg Limits](https://league-city.geotechnical-engineering1.org/atterberg-limits/)
+- [Cbr Road](https://league-city.geotechnical-engineering1.org/cbr-road/)
+- [Cpt Test](https://league-city.geotechnical-engineering1.org/cpt-test/)
+- [Deep Excavations](https://league-city.geotechnical-engineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://league-city.geotechnical-engineering1.org/excavation-monitoring/)
+- [Excavations](https://league-city.geotechnical-engineering1.org/excavations/)
+- [Flexible Pavement](https://league-city.geotechnical-engineering1.org/flexible-pavement/)
+- [Footings](https://league-city.geotechnical-engineering1.org/footings/)
+- [Foundations](https://league-city.geotechnical-engineering1.org/foundations/)
+- [Grain Size](https://league-city.geotechnical-engineering1.org/grain-size/)
+- [Ground Improvement](https://league-city.geotechnical-engineering1.org/ground-improvement/)
+- [Grouting](https://league-city.geotechnical-engineering1.org/grouting/)
+- [In Situ Permeability](https://league-city.geotechnical-engineering1.org/in-situ-permeability/)
+- [Investigation](https://league-city.geotechnical-engineering1.org/investigation/)
+- [Lab In Situ](https://league-city.geotechnical-engineering1.org/lab-in-situ/)
+- [Laboratory](https://league-city.geotechnical-engineering1.org/laboratory/)
+- [Liquefaction](https://league-city.geotechnical-engineering1.org/liquefaction/)
+- [Masw](https://league-city.geotechnical-engineering1.org/masw/)
+- [Mat Foundations](https://league-city.geotechnical-engineering1.org/mat-foundations/)
+- [Piles](https://league-city.geotechnical-engineering1.org/piles/)
+- [Proctor Tests](https://league-city.geotechnical-engineering1.org/proctor-tests/)
+- [Resistivity](https://league-city.geotechnical-engineering1.org/resistivity/)
+- [Retaining Walls](https://league-city.geotechnical-engineering1.org/retaining-walls/)
+- [Rigid Pavement](https://league-city.geotechnical-engineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://league-city.geotechnical-engineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://league-city.geotechnical-engineering1.org/sand-cone-density/)
+- [Seismic](https://league-city.geotechnical-engineering1.org/seismic/)
+- [Seismic Isolation](https://league-city.geotechnical-engineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://league-city.geotechnical-engineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://league-city.geotechnical-engineering1.org/seismic-refraction/)
+- [Slope Stability](https://league-city.geotechnical-engineering1.org/slope-stability/)
+- [Slopes](https://league-city.geotechnical-engineering1.org/slopes/)
+- [Soft Ground Tunnels](https://league-city.geotechnical-engineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://league-city.geotechnical-engineering1.org/spt-drilling/)
+- [Stone Columns](https://league-city.geotechnical-engineering1.org/stone-columns/)
+- [Test Pits](https://league-city.geotechnical-engineering1.org/test-pits/)
+- [Triaxial](https://league-city.geotechnical-engineering1.org/triaxial/)
+- [Vibrocompaction](https://league-city.geotechnical-engineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://league-city.geotechnical-engineering1.org/
+
+## About
+This site provides geotechnical engineering services in League City, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
