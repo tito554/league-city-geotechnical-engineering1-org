@@ -13,6 +13,7 @@
 - [Flexible Pavement](https://league-city.geotechnical-engineering1.org/flexible-pavement/)
 - [Footings](https://league-city.geotechnical-engineering1.org/footings/)
 - [Foundations](https://league-city.geotechnical-engineering1.org/foundations/)
+- [Geophysics](https://league-city.geotechnical-engineering1.org/geophysics/)
 - [Grain Size](https://league-city.geotechnical-engineering1.org/grain-size/)
 - [Ground Improvement](https://league-city.geotechnical-engineering1.org/ground-improvement/)
 - [Grouting](https://league-city.geotechnical-engineering1.org/grouting/)
